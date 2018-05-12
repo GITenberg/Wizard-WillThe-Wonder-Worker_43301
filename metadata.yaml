@@ -1,0 +1,28 @@
+_repo: Wizard-WillThe-Wonder-Worker_43301
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43301-h/images/coverlarge.jpg
+creator:
+  author:
+    agent_name: Ingraham, Prentiss
+    birthdate: 1843
+    deathdate: 1904
+    gutenberg_agent_id: '6139'
+    url: http://www.gutenberg.org/2009/agents/6139
+description: ''
+gutenberg_issued: '2013-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43301'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- !lcsh 'Boys -- Juvenile fiction'
+title: Wizard Will, the Wonder Worker
+url: http://www.gutenberg.org/ebooks/43301
